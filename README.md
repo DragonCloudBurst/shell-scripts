@@ -10,7 +10,7 @@ instead of running multiple commands for each package manager.
 
 ## kittay.sh
 ```
-/\---/\
+ /\---/\
 | o  o |
 | = v =|
 ¯¯¯¯¯¯¯¯
