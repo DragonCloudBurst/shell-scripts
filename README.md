@@ -15,3 +15,6 @@ instead of running multiple commands for each package manager.
 | = v =|
 ¯¯¯¯¯¯¯¯
 ```
+
+## fish_info.fish
+displays at-a-glance info in your fish shell. user, shell, terminal, uptime, and current directory.
