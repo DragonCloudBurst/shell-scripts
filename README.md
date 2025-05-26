@@ -9,7 +9,7 @@ simple script to update pretty much all packages on my linux mint xfce system at
 instead of running multiple commands for each package manager.
 
 ## kittay.sh
-/\---/\
+```/\---/\
 | o  o |
 | = v =|
-¯¯¯¯¯¯¯¯
+¯¯¯¯¯¯¯¯```
